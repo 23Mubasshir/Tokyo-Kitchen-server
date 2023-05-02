@@ -1,44 +1,279 @@
 [
-    {
-      "Chef Picture": "https://example.com/chef1.jpg",
-      "Chef Name": "Yukiko Nakamura",
-      "Years of Experience": 70,
-      "Number of Recipes": 50,
-      "Likes": 395
+    {   "id" :1,
+        "Chef Picture": "https://example.com/chef1.jpg",
+        "Chef Name": "Yukiko Nakamura",
+        "Chef description": "Yukiko Nakamura",
+        "Years of Experience": 40,
+        "Number of Recipes": 50,
+        "Likes": 395,
+        "Description": "Yukiko Nakamura is a third-generation sushi chef known for his precision and attention to detail.",
+        "Recipes": [
+            {
+                "Recipe Name": "Maguro Sashimi",
+                "Ingredients": [
+                    "Tuna",
+                    "Soy sauce",
+                    "Wasabi",
+                    "Shiso leaves",
+                    "Daikon radish"
+                ],
+                "Cooking Method": "Slice the tuna thinly and arrange on a plate. Serve with soy sauce, wasabi, shiso leaves, and grated daikon radish.",
+                "Rating": 4.5
+            },
+            {
+                "Recipe Name": "Tekka Maki",
+                "Ingredients": [
+                    "Sushi rice",
+                    "Nori seaweed",
+                    "Tuna",
+                    "Soy sauce",
+                    "Wasabi"
+                ],
+                "Cooking Method": "Lay a sheet of nori on a sushi mat. Spread sushi rice on the nori, leaving a gap at the top. Place sliced tuna on the rice and roll up the sushi using the mat. Slice and serve with soy sauce and wasabi.",
+                "Rating": 4.0
+            },
+            {
+                "Recipe Name": "Uni Don",
+                "Ingredients": [
+                    "Sushi rice",
+                    "Sea urchin",
+                    "Soy sauce",
+                    "Mirin",
+                    "Scallions"
+                ],
+                "Cooking Method": "Cook sushi rice and place it.Spoon the salmon roe over.Using tongs, toast the nori by waving it over a flame for about 20 seconds, until crisp. Do not burn it. Crumble and sprinkle the nori over the rice. Scatter the spring onion on top.",
+                "Rating": 4.0
+            }
+        ]
+    },  
+    {   "id" :2,
+        "Chef Picture": "https://example.com/chef2.jpg",
+        "Chef Name": "Kaito Suzuki",
+        "Years of Experience": 8,
+        "Number of Recipes": 10,
+        "Likes": 657,
+        "Description": "Yukiko Nakamura is a third-generation sushi chef known for his precision and attention to detail.",
+        "Recipes": [
+            {
+                "Recipe Name": "Maguro Sashimi",
+                "Ingredients": [
+                    "Tuna",
+                    "Soy sauce",
+                    "Wasabi",
+                    "Shiso leaves",
+                    "Daikon radish"
+                ],
+                "Cooking Method": "Slice the tuna thinly and arrange on a plate. Serve with soy sauce, wasabi, shiso leaves, and grated daikon radish.",
+                "Rating": 4.5
+            },
+            {
+                "Recipe Name": "Tekka Maki",
+                "Ingredients": [
+                    "Sushi rice",
+                    "Nori seaweed",
+                    "Tuna",
+                    "Soy sauce",
+                    "Wasabi"
+                ],
+                "Cooking Method": "Lay a sheet of nori on a sushi mat. Spread sushi rice on the nori, leaving a gap at the top. Place sliced tuna on the rice and roll up the sushi using the mat. Slice and serve with soy sauce and wasabi.",
+                "Rating": 4.0
+            },
+            {
+                "Recipe Name": "Uni Don",
+                "Ingredients": [
+                    "Sushi rice",
+                    "Sea urchin",
+                    "Soy sauce",
+                    "Mirin",
+                    "Scallions"
+                ],
+                "Cooking Method": "Cook sushi rice and place it.Spoon the salmon roe over.Using tongs, toast the nori by waving it over a flame for about 20 seconds, until crisp. Do not burn it. Crumble and sprinkle the nori over the rice. Scatter the spring onion on top.",
+                "Rating": 4.0
+            }
+        ]
     },
-    {
-      "Chef Picture": "https://example.com/chef2.jpg",
-      "Chef Name": "Kaito Suzuki",
-      "Years of Experience": 8,
-      "Number of Recipes": 10,
-      "Likes": 657
+    {   "id" :3,
+        "Chef Picture": "https://example.com/chef3.jpg",
+        "Chef Name": "Sakura Yamada",
+        "Years of Experience": 15,
+        "Number of Recipes": 20,
+        "Likes": 545,
+        "Description": "Yukiko Nakamura is a third-generation sushi chef known for his precision and attention to detail.",
+        "Recipes": [
+            {
+                "Recipe Name": "Maguro Sashimi",
+                "Ingredients": [
+                    "Tuna",
+                    "Soy sauce",
+                    "Wasabi",
+                    "Shiso leaves",
+                    "Daikon radish"
+                ],
+                "Cooking Method": "Slice the tuna thinly and arrange on a plate. Serve with soy sauce, wasabi, shiso leaves, and grated daikon radish.",
+                "Rating": 4.5
+            },
+            {
+                "Recipe Name": "Tekka Maki",
+                "Ingredients": [
+                    "Sushi rice",
+                    "Nori seaweed",
+                    "Tuna",
+                    "Soy sauce",
+                    "Wasabi"
+                ],
+                "Cooking Method": "Lay a sheet of nori on a sushi mat. Spread sushi rice on the nori, leaving a gap at the top. Place sliced tuna on the rice and roll up the sushi using the mat. Slice and serve with soy sauce and wasabi.",
+                "Rating": 4.0
+            },
+            {
+                "Recipe Name": "Uni Don",
+                "Ingredients": [
+                    "Sushi rice",
+                    "Sea urchin",
+                    "Soy sauce",
+                    "Mirin",
+                    "Scallions"
+                ],
+                "Cooking Method": "Cook sushi rice and place it.Spoon the salmon roe over.Using tongs, toast the nori by waving it over a flame for about 20 seconds, until crisp. Do not burn it. Crumble and sprinkle the nori over the rice. Scatter the spring onion on top.",
+                "Rating": 4.0
+            }
+        ]
     },
-    {
-      "Chef Picture": "https://example.com/chef3.jpg",
-      "Chef Name": "Sakura Yamada",
-      "Years of Experience": 15,
-      "Number of Recipes": 20,
-      "Likes": 545
+    {   "id" :4,
+        "Chef Picture": "https://example.com/chef4.jpg",
+        "Chef Name": "Takumi Nakamura",
+        "Years of Experience": 12,
+        "Number of Recipes": 50,
+        "Likes": 495,
+        "Description": "Yukiko Nakamura is a third-generation sushi chef known for his precision and attention to detail.",
+        "Recipes": [
+            {
+                "Recipe Name": "Maguro Sashimi",
+                "Ingredients": [
+                    "Tuna",
+                    "Soy sauce",
+                    "Wasabi",
+                    "Shiso leaves",
+                    "Daikon radish"
+                ],
+                "Cooking Method": "Slice the tuna thinly and arrange on a plate. Serve with soy sauce, wasabi, shiso leaves, and grated daikon radish.",
+                "Rating": 4.5
+            },
+            {
+                "Recipe Name": "Tekka Maki",
+                "Ingredients": [
+                    "Sushi rice",
+                    "Nori seaweed",
+                    "Tuna",
+                    "Soy sauce",
+                    "Wasabi"
+                ],
+                "Cooking Method": "Lay a sheet of nori on a sushi mat. Spread sushi rice on the nori, leaving a gap at the top. Place sliced tuna on the rice and roll up the sushi using the mat. Slice and serve with soy sauce and wasabi.",
+                "Rating": 4.0
+            },
+            {
+                "Recipe Name": "Uni Don",
+                "Ingredients": [
+                    "Sushi rice",
+                    "Sea urchin",
+                    "Soy sauce",
+                    "Mirin",
+                    "Scallions"
+                ],
+                "Cooking Method": "Cook sushi rice and place it.Spoon the salmon roe over.Using tongs, toast the nori by waving it over a flame for about 20 seconds, until crisp. Do not burn it. Crumble and sprinkle the nori over the rice. Scatter the spring onion on top.",
+                "Rating": 4.0
+            }
+        ]
     },
-    {
-      "Chef Picture": "https://example.com/chef4.jpg",
-      "Chef Name": "Takumi Nakamura",
-      "Years of Experience": 12,
-      "Number of Recipes": 50,
-      "Likes": 495
+    {   "id" :5,
+        "Chef Picture": "https://example.com/chef5.jpg",
+        "Chef Name": "Haruki Saito",
+        "Years of Experience": 45,
+        "Number of Recipes": 35,
+        "Likes": 485,
+        "Description": "Yukiko Nakamura is a third-generation sushi chef known for his precision and attention to detail.",
+        "Recipes": [
+            {
+                "Recipe Name": "Maguro Sashimi",
+                "Ingredients": [
+                    "Tuna",
+                    "Soy sauce",
+                    "Wasabi",
+                    "Shiso leaves",
+                    "Daikon radish"
+                ],
+                "Cooking Method": "Slice the tuna thinly and arrange on a plate. Serve with soy sauce, wasabi, shiso leaves, and grated daikon radish.",
+                "Rating": 4.5
+            },
+            {
+                "Recipe Name": "Tekka Maki",
+                "Ingredients": [
+                    "Sushi rice",
+                    "Nori seaweed",
+                    "Tuna",
+                    "Soy sauce",
+                    "Wasabi"
+                ],
+                "Cooking Method": "Lay a sheet of nori on a sushi mat. Spread sushi rice on the nori, leaving a gap at the top. Place sliced tuna on the rice and roll up the sushi using the mat. Slice and serve with soy sauce and wasabi.",
+                "Rating": 4.0
+            },
+            {
+                "Recipe Name": "Uni Don",
+                "Ingredients": [
+                    "Sushi rice",
+                    "Sea urchin",
+                    "Soy sauce",
+                    "Mirin",
+                    "Scallions"
+                ],
+                "Cooking Method": "Cook sushi rice and place it.Spoon the salmon roe over.Using tongs, toast the nori by waving it over a flame for about 20 seconds, until crisp. Do not burn it. Crumble and sprinkle the nori over the rice. Scatter the spring onion on top.",
+                "Rating": 4.0
+            }
+        ]
     },
-    {
-      "Chef Picture": "https://example.com/chef5.jpg",
-      "Chef Name": "Haruki Saito",
-      "Years of Experience": 45,
-      "Number of Recipes": 35,
-      "Likes": 485
-    },
-    {
-      "Chef Picture": "https://example.com/chef6.jpg",
-      "Chef Name": "Mio Tanaka",
-      "Years of Experience": 20,
-      "Number of Recipes": 40,
-      "Likes": 450
+    {   "id" :6,
+        "Chef Picture": "https://example.com/chef6.jpg",
+        "Chef Name": "Mio Tanaka",
+        "Years of Experience": 20,
+        "Number of Recipes": 40,
+        "Likes": 450,
+        "Description": "Yukiko Nakamura is a third-generation sushi chef known for his precision and attention to detail.",
+        "Recipes": [
+            {
+                "Recipe Name": "Maguro Sashimi",
+                "Ingredients": [
+                    "Tuna",
+                    "Soy sauce",
+                    "Wasabi",
+                    "Shiso leaves",
+                    "Daikon radish"
+                ],
+                "Cooking Method": "Slice the tuna thinly and arrange on a plate. Serve with soy sauce, wasabi, shiso leaves, and grated daikon radish.",
+                "Rating": 4.5
+            },
+            {
+                "Recipe Name": "Tekka Maki",
+                "Ingredients": [
+                    "Sushi rice",
+                    "Nori seaweed",
+                    "Tuna",
+                    "Soy sauce",
+                    "Wasabi"
+                ],
+                "Cooking Method": "Lay a sheet of nori on a sushi mat. Spread sushi rice on the nori, leaving a gap at the top. Place sliced tuna on the rice and roll up the sushi using the mat. Slice and serve with soy sauce and wasabi.",
+                "Rating": 4.0
+            },
+            {
+                "Recipe Name": "Uni Don",
+                "Ingredients": [
+                    "Sushi rice",
+                    "Sea urchin",
+                    "Soy sauce",
+                    "Mirin",
+                    "Scallions"
+                ],
+                "Cooking Method": "Cook sushi rice and place it.Spoon the salmon roe over.Using tongs, toast the nori by waving it over a flame for about 20 seconds, until crisp. Do not burn it. Crumble and sprinkle the nori over the rice. Scatter the spring onion on top.",
+                "Rating": 4.0
+            }
+        ]
     }
-  ]
+]
