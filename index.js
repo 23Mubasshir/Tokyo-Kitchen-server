@@ -12,6 +12,14 @@ app.get('/chefCart', (req, res) => {
   res.send(chefCart);
 })
 
+app.get('/chefCart/:id', (req, res) => {
+  const id = req.params.id;
+  console.log(id);
+  const selectedChefCart = chefCart.find(n => n._id == id);
+  res.send(selectedChefCart)
+})
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
+

@@ -1,34 +1,34 @@
 [
-    {   "id" :1,
+    {   "_id" :1,
         "ChefPicture": "https://savorjapan.com/special/en/life-in-the-kitchen/img/03/5.jpg",
         "ChefName": "Yukiko Nakamura",
         "YearsOfExperience": 40,
         "NumberOfRecipes": 50,
         "Likes": 395,
-        "Description": "Yukiko Nakamura is a third-generation sushi chef known for his precision and attention to detail.",
+        "Description": "Yukiko Nakamura is a first-generation sushi chef known for his precision and attention to detailShe takes great pride in the quality of his ingredients and sources the freshest fish and seafood to use in his dishes. His passion for sushi is evident in every bite, and she is highly respected in the culinary community for her skill and dedication..",
         "Recipes": [
             {
-                "RecipeName": "Maguro Sashimi",
+                "RecipeName": "Chicken Katsu",
                 "Ingredients": [
-                    "Tuna",
+                    "ketchup",
                     "Soy sauce",
-                    "Wasabi",
-                    "Shiso leaves",
-                    "Daikon radish"
+                    "Worcestershire sauce",
+                    "sugar",
+                    "vinegar"
                 ],
-                "CookingMethod": "Slice the tuna thinly and arrange on a plate. Serve with soy sauce, wasabi, shiso leaves, and grated daikon radish.",
+                "CookingMethod": "Pound chicken breasts until thin, coat in flour, egg, and panko breadcrumbs, then fry until golden brown. Serve with tonkatsu sauce and rice",
                 "Rating": 4.5
             },
             {
-                "RecipeName": "Tekka Maki",
+                "RecipeName": "Udon Noodle Soup",
                 "Ingredients": [
-                    "Sushi rice",
-                    "Nori seaweed",
-                    "Tuna",
+                    "sliced chicken,",
+                    "mirin",
+                    "green onions",
                     "Soy sauce",
                     "Wasabi"
                 ],
-                "CookingMethod": "Lay a sheet of nori on a sushi mat. Spread sushi rice on the nori, leaving a gap at the top. Place sliced tuna on the rice and roll up the sushi using the mat. Slice and serve with soy sauce and wasabi.",
+                "CookingMethod": "Boil udon noodles until tender, then add in dashi, soy sauce, mirin, sliced chicken, and green onions. Serve hot.",
                 "Rating": 4.0
             },
             {
@@ -45,59 +45,59 @@
             }
         ]
     },  
-    {   "id" :2,
+    {   "_id" :2,
         "ChefPicture": "https://onecms-res.cloudinary.com/image/upload/s--BEvVceZB--/f_auto,q_auto/v1/mediacorp/cna/image/2021/11/01/chef_akane_eno_4.jpg?itok=7vuqkabP",
         "ChefName": "Kaito Suzuki",
         "YearsOfExperience": 8,
         "NumberOfRecipes": 10,
         "Likes": 657,
-        "Description": "Yukiko Nakamura is a third-generation sushi chef known for his precision and attention to detail.",
+        "Description": "Kaito Suzuki is a third-generation sushi chef who has been honing her craft for over a decade. She is known for her precision and attention to detail, which she brings to every dish she creates. Kaito Suzuki has a deep understanding of the flavors and textures of traditional Japanese cuisine and uses her expertise to create beautifully crafted sushi dishes that are both delicious and visually stunning. She takes great pride in the quality of her ingredients and sources the freshest fish and seafood to use in her dishes. Her passion for sushi is evident in every bite, and she is highly respected in the culinary community for her skill and dedication.",
         "Recipes": [
             {
-                "RecipeName": "Maguro Sashimi",
+                "RecipeName": "Takoyaki",
                 "Ingredients": [
-                    "Tuna",
+                    "takoyaki sauce",
                     "Soy sauce",
-                    "Wasabi",
+                    "takoyaki sauce",
                     "Shiso leaves",
-                    "Daikon radish"
+                    "bonito flakes"
                 ],
-                "CookingMethod": "Slice the tuna thinly and arrange on a plate. Serve with soy sauce, wasabi, shiso leaves, and grated daikon radish.",
+                "CookingMethod": "Mix flour, eggs, dashi, and diced octopus to make a batter. Cook in a special takoyaki pan until crispy, then top with takoyaki sauce, mayo, and bonito flakes.",
                 "Rating": 4.5
             },
             {
-                "RecipeName": "Tekka Maki",
+                "RecipeName": "Gyoza",
                 "Ingredients": [
                     "Sushi rice",
-                    "Nori seaweed",
-                    "Tuna",
+                    "rice vinegar",
+                    "pork",
                     "Soy sauce",
-                    "Wasabi"
+                    "sesame oil"
                 ],
-                "CookingMethod": "Lay a sheet of nori on a sushi mat. Spread sushi rice on the nori, leaving a gap at the top. Place sliced tuna on the rice and roll up the sushi using the mat. Slice and serve with soy sauce and wasabi.",
+                "CookingMethod": "Mix ground pork, cabbage, green onions, garlic, and ginger. Place a spoonful of filling onto a gyoza wrapper, fold in half, and pleat the edges. Pan-fry until crispy and serve with dipping sauce (soy sauce, rice vinegar, sesame oil).",
                 "Rating": 4.0
             },
             {
-                "RecipeName": "Uni Don",
+                "RecipeName": "Sushi Rolls",
                 "Ingredients": [
-                    "Sushi rice",
-                    "Sea urchin",
+                    "nori",
+                    "like crab",
                     "Soy sauce",
-                    "Mirin",
-                    "Scallions"
+                    "cucumber",
+                    "avocado"
                 ],
-                "CookingMethod": "Cook sushi rice and place it.Spoon the salmon roe over.Using tongs, toast the nori by waving it over a flame for about 20 seconds, until crisp. Do not burn it. Crumble and sprinkle the nori over the rice. Scatter the spring onion on top.",
+                "CookingMethod": "Cook sushi rice and season with rice vinegar, sugar, and salt. Spread on a sheet of nori, add fillings like crab, avocado, and cucumber, and roll tightly. Slice and serve with soy sauce and wasabi.",
                 "Rating": 4.0
             }
         ]
     },
-    {   "id" :3,
+    {   "_id" :3,
         "ChefPicture": "https://www.fourseasons.com/content/dam/fourseasons/images/web/KYO/KYO_819_original.jpg",
-        "ChefName": "Sakura Yamada",
+        "ChefName": "Sakur Yamada",
         "YearsOfExperience": 15,
         "NumberOfRecipes": 20,
         "Likes": 545,
-        "Description": "Yukiko Nakamura is a third-generation sushi chef known for his precision and attention to detail.",
+        "Description": "Sakur Yamada is a Japanese chef who has a passion for creating traditional Japanese dishes with a modern twist. He emphasizes fresh, seasonal ingredients and exquisite presentation in his cooking.",
         "Recipes": [
             {
                 "RecipeName": "Maguro Sashimi",
@@ -112,130 +112,130 @@
                 "Rating": 4.5
             },
             {
-                "RecipeName": "Tekka Maki",
+                "RecipeName": "Yakiniku",
                 "Ingredients": [
-                    "Sushi rice",
-                    "Nori seaweed",
-                    "Tuna",
+                    "sake",
+                    "vegetables",
+                    "peppers",
                     "Soy sauce",
-                    "Wasabi"
+                    "onions"
                 ],
-                "CookingMethod": "Lay a sheet of nori on a sushi mat. Spread sushi rice on the nori, leaving a gap at the top. Place sliced tuna on the rice and roll up the sushi using the mat. Slice and serve with soy sauce and wasabi.",
+                "CookingMethod": "Grill marinated beef or pork with vegetables like bell peppers and onions. Serve with yakiniku sauce (soy sauce, sake, mirin, sugar, garlic).",
                 "Rating": 4.0
             },
             {
-                "RecipeName": "Uni Don",
+                "RecipeName": "Oyakodon",
                 "Ingredients": [
-                    "Sushi rice",
-                    "Sea urchin",
+                    "chicken",
+                    "dashi",
                     "Soy sauce",
-                    "Mirin",
-                    "Scallions"
+                    "onions",
+                    "chicken"
                 ],
-                "CookingMethod": "Cook sushi rice and place it.Spoon the salmon roe over.Using tongs, toast the nori by waving it over a flame for about 20 seconds, until crisp. Do not burn it. Crumble and sprinkle the nori over the rice. Scatter the spring onion on top.",
+                "CookingMethod": "Cook sliced chicken with onions, dashi, soy sauce, and mirin. Beat eggs and pour over the chicken, then simmer until set. Serve over rice.",
                 "Rating": 4.0
             }
         ]
     },
-    {   "id" :4,
+    {   "_id" :4,
         "ChefPicture": "https://www.masterclass.com/course-images/attachments/phNnLKGDQJCcRVYojM6pPnXs",
         "ChefName": "Takumi Nakamura",
         "YearsOfExperience": 12,
         "NumberOfRecipes": 50,
         "Likes": 495,
-        "Description": "Yukiko Nakamura is a third-generation sushi chef known for his precision and attention to detail.",
+        "Description": "Takumi Nakamura is a skilled Japanese chef known for his precision in cooking and dedication to using the freshest ingredients. He specializes in sushi-making and blends tradition with innovation in his cuisine.",
         "Recipes": [
             {
-                "RecipeName": "Maguro Sashimi",
+                "RecipeName": "Shabu-Shabu:",
                 "Ingredients": [
-                    "Tuna",
-                    "Soy sauce",
-                    "Wasabi",
+                    "beef",
+                    "soy sauce",
+                    "mushrooms",
                     "Shiso leaves",
                     "Daikon radish"
                 ],
-                "CookingMethod": "Slice the tuna thinly and arrange on a plate. Serve with soy sauce, wasabi, shiso leaves, and grated daikon radish.",
+                "CookingMethod": "Boil sliced beef or pork and vegetables like bok choy and shiitake mushrooms in a pot of dashi. Serve with dipping sauce (soy sauce, ponzu, or sesame sauce).",
                 "Rating": 4.5
             },
             {
-                "RecipeName": "Tekka Maki",
+                "RecipeName": "Tonjiru",
                 "Ingredients": [
-                    "Sushi rice",
-                    "Nori seaweed",
-                    "Tuna",
-                    "Soy sauce",
+                    "green onions",
+                    "Boil pork belly",
+                    "daikon radish",
+                    "carrots",
                     "Wasabi"
                 ],
-                "CookingMethod": "Lay a sheet of nori on a sushi mat. Spread sushi rice on the nori, leaving a gap at the top. Place sliced tuna on the rice and roll up the sushi using the mat. Slice and serve with soy sauce and wasabi.",
+                "CookingMethod": "Boil pork belly, daikon radish, and carrots in dashi, then add in miso paste and tofu. Serve hot with sliced green onions.",
                 "Rating": 4.0
             },
             {
-                "RecipeName": "Uni Don",
+                "RecipeName": "Tempura",
                 "Ingredients": [
-                    "Sushi rice",
-                    "Sea urchin",
-                    "Soy sauce",
-                    "Mirin",
-                    "Scallions"
+                    "Dip shrimp",
+                    "vegetables",
+                    "cornstarch",
+                    "ice-cold water",
+                    "dashi"
                 ],
-                "CookingMethod": "Cook sushi rice and place it.Spoon the salmon roe over.Using tongs, toast the nori by waving it over a flame for about 20 seconds, until crisp. Do not burn it. Crumble and sprinkle the nori over the rice. Scatter the spring onion on top.",
+                "CookingMethod": " Dip shrimp, vegetables, or other ingredients in a batter made from flour, cornstarch, and ice-cold water, then fry until golden brown. Serve with tentsuyu dipping sauce (dashi, soy sauce, mirin).",
                 "Rating": 4.0
             }
         ]
     },
-    {   "id" :5,
+    {   "_id" :5,
         "ChefPicture": "https://www.eastwestbank.com/content/dam/ewb-dotcom/reachfurther/newsarticlestore/484/Chef-Martin-Yan-top.jpg",
-        "ChefName": "Haruki Saito",
+        "ChefName": "Haruku Saito",
         "YearsOfExperience": 45,
         "NumberOfRecipes": 35,
         "Likes": 485,
-        "Description": "Yukiko Nakamura is a third-generation sushi chef known for his precision and attention to detail.",
+        "Description": "Haruku Saito is a creative Japanese chef who blends traditional techniques with modern flavors. He emphasizes fresh, local ingredients and showcases Japan's culinary heritage with innovative dishes.",
         "Recipes": [
             {
-                "RecipeName": "Maguro Sashimi",
+                "RecipeName": "Chawanmushi",
                 "Ingredients": [
-                    "Tuna",
-                    "Soy sauce",
-                    "Wasabi",
-                    "Shiso leaves",
+                    "chicken",
+                    "shrimp",
+                    "eggs",
+                    "soy sauce",
                     "Daikon radish"
                 ],
-                "CookingMethod": "Slice the tuna thinly and arrange on a plate. Serve with soy sauce, wasabi, shiso leaves, and grated daikon radish.",
+                "CookingMethod": "Whisk together eggs, dashi, soy sauce, and mirin, then steam in individual bowls with shrimp, chicken, or mushrooms. Serve hot.",
                 "Rating": 4.5
             },
             {
-                "RecipeName": "Tekka Maki",
+                "RecipeName": "Soba Noodles",
                 "Ingredients": [
-                    "Sushi rice",
+                    "Noodles",
                     "Nori seaweed",
-                    "Tuna",
-                    "Soy sauce",
-                    "Wasabi"
+                    "daikon",
+                    "mirin",
+                    "scallions"
                 ],
-                "CookingMethod": "Lay a sheet of nori on a sushi mat. Spread sushi rice on the nori, leaving a gap at the top. Place sliced tuna on the rice and roll up the sushi using the mat. Slice and serve with soy sauce and wasabi.",
+                "CookingMethod": "Cook soba noodles according to package instructions, then toss with a sauce made from soy sauce, mirin, dashi, and sugar. Serve hot or cold with sliced scallions and grated daikon radish.",
                 "Rating": 4.0
             },
             {
-                "RecipeName": "Uni Don",
+                "RecipeName": "Okonomiyaki",
                 "Ingredients": [
-                    "Sushi rice",
-                    "Sea urchin",
-                    "Soy sauce",
-                    "Mirin",
-                    "Scallions"
+                    "Mix flour",
+                    "eggs",
+                    "cabbage",
+                    "dashi",
+                    "green onions"
                 ],
-                "CookingMethod": "Cook sushi rice and place it.Spoon the salmon roe over.Using tongs, toast the nori by waving it over a flame for about 20 seconds, until crisp. Do not burn it. Crumble and sprinkle the nori over the rice. Scatter the spring onion on top.",
+                "CookingMethod": "Mix flour, eggs, cabbage, dashi, and green onions to make a batter. Add in sliced pork, shrimp, or other toppings and cook on a griddle until golden brown.",
                 "Rating": 4.0
             }
         ]
     },
-    {   "id" :6,
+    {   "_id" :6,
         "ChefPicture": "https://imgix.theurbanlist.com/content/article/IWD2021-SHOTBYTHOM-2020-1357778.jpg?auto=format,compress&w=1200&h=630&fit=crop",
         "ChefName": "Mio Tanaka",
         "YearsOfExperience": 20,
         "NumberOfRecipes": 40,
         "Likes": 450,
-        "Description": "Yukiko Nakamura is a third-generation sushi chef known for his precision and attention to detail.",
+        "Description": "Yukiko Nakamura is a skilled Japanese chef who specializes in traditional cuisine, with a focus on exquisite presentation and highlighting natural flavors. She's dedicated to preserving Japan's culinary heritage.",
         "Recipes": [
             {
                 "RecipeName": "Maguro Sashimi",
